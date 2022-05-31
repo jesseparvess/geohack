@@ -1,18 +1,7 @@
-# MIT-808 - SDG Goals
-
 ## About
 
-This repository handles the MIT 808 data science project. Specifically it concerns the South African SDG Hub.
+xyz
 
-The website of the South African SDG Hub can be found here: https://sasdghub.up.ac.za
-
-Here the South African SDG Hub has created a metadatabase that contains paper abstracts, along with paper titles, and the associated classification of the article to a SDG goal. The aim of this project is to create a search engine that returns the most appropriate articles based on a user query. The returned results must be more relevant than the current search engine and be able to be visualized in a manner that improves user accessibility to the papers retrieved.
-
-In exploratory data analysis (under notebooks) the data base is explored and analysed.
-
-In modeling (under notebooks) the search engine is defined and tested.
-
-Project Organization
 ------------
 
     ├── LICENSE
